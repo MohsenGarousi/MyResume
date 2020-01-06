@@ -1,0 +1,14 @@
+.fullpage {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .first {
+    background-color: #004080;
+    color: white;
+  }

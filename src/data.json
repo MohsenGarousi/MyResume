@@ -1,0 +1,63 @@
+{
+    "title": "Hello I'm Mohsen!",
+    "subtitle": "FrontEnd Developer | Open-Source Enthusiast",
+    "links": {
+        "github": "https://github.com/mohsengarousi",
+        "stackoverflow": "https://stackoverflow.com/story/mohsen_garousi",
+        "linkedin": "https://www.linkedin.com/in/mohsen-garousi-38944579"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I have created a few JavaScript and React libraries"
+                }
+            ]
+        },
+        {
+            "title": "skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/js.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/jquery.jpg",
+                        "title": "jquery"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png"
+    }
+}

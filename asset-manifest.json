@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyResume/static/css/main.c6d06803.chunk.css",
+    "main.js": "/MyResume/static/js/main.34d6a11b.chunk.js",
+    "main.js.map": "/MyResume/static/js/main.34d6a11b.chunk.js.map",
+    "runtime-main.js": "/MyResume/static/js/runtime-main.c8432e9f.js",
+    "runtime-main.js.map": "/MyResume/static/js/runtime-main.c8432e9f.js.map",
+    "static/js/2.2a708489.chunk.js": "/MyResume/static/js/2.2a708489.chunk.js",
+    "static/js/2.2a708489.chunk.js.map": "/MyResume/static/js/2.2a708489.chunk.js.map",
+    "index.html": "/MyResume/index.html",
+    "precache-manifest.858b0092f2bf9b1f6135751fccd4d007.js": "/MyResume/precache-manifest.858b0092f2bf9b1f6135751fccd4d007.js",
+    "service-worker.js": "/MyResume/service-worker.js",
+    "static/css/main.c6d06803.chunk.css.map": "/MyResume/static/css/main.c6d06803.chunk.css.map",
+    "static/js/2.2a708489.chunk.js.LICENSE": "/MyResume/static/js/2.2a708489.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8432e9f.js",
+    "static/js/2.2a708489.chunk.js",
+    "static/css/main.c6d06803.chunk.css",
+    "static/js/main.34d6a11b.chunk.js"
+  ]
+}
